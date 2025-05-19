@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="[Votre URL LinkedIn]" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5](https://www.linkedin.com/in/enzo-bernard-833412116?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
   </a>
   </p>
 
